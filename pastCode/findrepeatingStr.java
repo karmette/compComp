@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class repeatingStr {
+public class findrepeatingStr {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         String test=sc.next();
