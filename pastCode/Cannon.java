@@ -1,4 +1,3 @@
-package EulerJava;
 import java.util.Scanner;
 public class Cannon {
     public static void main(String[] args){
