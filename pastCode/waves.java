@@ -1,4 +1,3 @@
-package EulerJava;
 import java.util.Scanner;
 public class waves {
     public static void main(String[] args){
