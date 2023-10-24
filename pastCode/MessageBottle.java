@@ -4,7 +4,7 @@ public class MessageBottle {
         Scanner s = new Scanner(System.in);
         String correct = s.nextLine();
         int tests = s.nextInt();
-        int[] results = new int[tests-1];
+        int[] results = new int[tests];
         for(int i = 0; i<tests; i++){
             
             String testString = s.nextLine();
@@ -15,7 +15,7 @@ public class MessageBottle {
             while(cursor < testArray.length){
                 String testChar = testString.substring(cursor, cursor+1);
                 if(testChar.equals("#")){
-                    
+
                     cursor--;
 
                 }else{
