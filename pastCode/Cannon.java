@@ -1,3 +1,7 @@
+// SLHS 2023 Kickoff
+// Cannonball Run
+// Status: Works
+
 import java.util.Scanner;
 public class Cannon {
     public static void main(String[] args){

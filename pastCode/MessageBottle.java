@@ -1,3 +1,7 @@
+// SLHS 2023 Kickoff
+// Message in a Bottle
+// Status: Definetely doesn't work
+
 import java.util.Scanner;
 public class MessageBottle {
     public static void main(String[] args){

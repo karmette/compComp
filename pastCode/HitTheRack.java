@@ -1,3 +1,7 @@
+// SLHS 2023 Kickoff
+// Hit the Rack!
+// Status: No, forgot
+
 import java.util.Scanner;
 public class HitTheRack {
     public static void main(String[] args){
@@ -6,7 +10,7 @@ public class HitTheRack {
         for(int i = 0; i<tests; i++){
             String time = s.nextLine();
             String[] times = new String[4];
-            
+
         }
     }
 }

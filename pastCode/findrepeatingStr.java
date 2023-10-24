@@ -1,3 +1,7 @@
+// SLHS 2023 Kickoff
+// Polly Want Cracker
+// Status: Yes, without test cases
+
 import java.util.Scanner;
 public class findrepeatingStr {
     public static void main(String[] args) {

@@ -1,3 +1,7 @@
+// SLHS 2023 Kickoff
+// We're In For Some Chop!
+// Status: Works
+
 import java.util.Scanner;
 public class waves {
     public static void main(String[] args){

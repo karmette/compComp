@@ -1,3 +1,7 @@
+// SLHS 2023 Kickoff
+// Infinite Pirate Theorem
+// Status: Works but not really?
+
 import java.util.Scanner;
 public class InfPirate {
     public static void main(String[] args){
