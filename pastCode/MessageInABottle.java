@@ -1,5 +1,7 @@
 // Made by my mom lol
-
+// SLHS Kickoff 2023
+// Message In a Bottle
+// Status: Working
 
 import java.util.Scanner;
 public class MessageInABottle {
@@ -57,7 +59,7 @@ public class MessageInABottle {
             }
         }
         //System.out.println(correctWords);
-        return (double) (correctWords/5)/(speed/60);
+        return (double) (correctWords*60)/(speed*5);
     }
 
     public static double wordsPerMin(String exactMessage, String writerString, int speed){
